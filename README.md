@@ -29,7 +29,6 @@ EDA involved:
 - Descriptive statistics
 - Visualization of data distributions
 - Identification of missing values and outliers
-- Analysis of time-series components
 
 ## Data Preparation
 
@@ -47,7 +46,7 @@ EDA involved:
 2. **XGBoost Regressor**
 
 ### Model Selection
-The MLP model outperformed the XGBoost regressor and was selected for final predictions.
+The MLP neural network model outperformed the XGBoost regressor and was selected for final predictions.
 
 ## Evaluation
 
