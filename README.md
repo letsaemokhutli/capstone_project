@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to predict the monthly revenue for a restaurant using machine learning models. Accurate revenue predictions enable restaurant management to make data-driven decisions regarding inventory, staffing, and marketing, thereby improving operational efficiency and profitability.
+This project aims to predict the monthly revenue for a restaurant using machine learning models. Accurate revenue predictions enable restaurant management to make data-driven decisions regarding inventory, staffing, and marketing, thereby improving operational efficiency and profitability. project article, https://medium.com/@mokhutliletsae/restaurant-revenue-prediction-using-deep-learning-b582cd3704f7
 
 ## Table of Contents
 
