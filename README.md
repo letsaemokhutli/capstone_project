@@ -71,23 +71,9 @@ The MLP neural network model provides reliable revenue predictions, enabling eff
 1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/restaurant-revenue-prediction.git
-    cd restaurant-revenue-prediction
     ```
 2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the data preparation script:
-    ```bash
-    python data_preparation.py
-    ```
-4. Train the model:
-    ```bash
-    python train_model.py
-    ```
-5. Evaluate the model:
-    ```bash
-    python evaluate_model.py
+    ```Run the capstone_prep_file.ipynb using visual studio code or jupyter notebooks
     ```
 
 ## Dependencies
@@ -100,4 +86,4 @@ The MLP neural network model provides reliable revenue predictions, enabling eff
 - Matplotlib/Seaborn (for visualizations)
 
 ## Contact
-For any queries or issues, please contact [your email address].
+For any queries or issues, please contact me on https://www.linkedin.com/in/mokhutliletsae/.
